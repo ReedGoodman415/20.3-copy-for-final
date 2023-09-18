@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../Bootstrap_Customize/Solved"
+	},
+	{
+		"path": "../Bootstrap_Customize/Unsolved"
+	},
+	{
+		"path": "../Bootstrap_Customize/Unsolved/css"
+	},
+	{
+		"path": "../Bootstrap_Customize/Unsolved/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Solved"
+  }
+}
